@@ -28,7 +28,7 @@ Usa a função `reduce` para combinar todos os sub-arrays em um único array con
 
 Agrupe objetos com base em uma propriedade específica. Esse exemplo organiza objetos em categorias com base em valores comuns.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para criar um novo objeto onde cada chave representa um grupo e os valores são arrays de objetos pertencentes a esse grupo.
 
@@ -38,7 +38,7 @@ Usa a função `reduce` para criar um novo objeto onde cada chave representa um 
 
 Calcule a média dos valores em um array de números. Esse exemplo ajuda a entender a distribuição dos valores em um array.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para somar todos os valores e depois divide pela quantidade total de elementos para encontrar a média.
 
@@ -48,7 +48,7 @@ Usa a função `reduce` para somar todos os valores e depois divide pela quantid
 
 Junte uma lista de strings em uma única string. Útil para combinar várias partes de texto em uma só.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para adicionar cada string ao acumulador, separando-as por espaços ou outro delimitador.
 
@@ -58,7 +58,7 @@ Usa a função `reduce` para adicionar cada string ao acumulador, separando-as p
 
 Conte quantas vezes cada elemento aparece em um array. Ideal para criar uma contagem de frequência de itens.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para construir um objeto onde cada chave é um elemento do array e o valor é a contagem de suas ocorrências.
 
@@ -68,7 +68,7 @@ Usa a função `reduce` para construir um objeto onde cada chave é um elemento 
 
 Transforme um array de pares chave-valor em um objeto. Útil para converter uma lista de pares em um formato de objeto.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para iterar sobre os pares e construir um objeto onde cada chave é associada ao seu valor correspondente.
 
@@ -78,7 +78,7 @@ Usa a função `reduce` para iterar sobre os pares e construir um objeto onde ca
 
 Calcule o produto de todos os números em um array. Esse exemplo mostra como multiplicar todos os valores juntos.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para multiplicar todos os valores do array, resultando no produto total.
 
@@ -88,7 +88,7 @@ Usa a função `reduce` para multiplicar todos os valores do array, resultando n
 
 Elimine os valores duplicados de um array. Ideal para garantir que todos os elementos sejam únicos.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para criar um novo array que inclui apenas valores únicos, removendo as duplicatas.
 
@@ -98,6 +98,6 @@ Usa a função `reduce` para criar um novo array que inclui apenas valores únic
 
 Some todos os números em um array. Esse exemplo ajuda a calcular o total combinado dos valores.
 
-### Como Funciona
+### Como Funciona:
 
 Usa a função `reduce` para adicionar cada número ao total acumulado, resultando na soma total dos elementos.
