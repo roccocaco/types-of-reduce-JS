@@ -12,7 +12,7 @@ Encontre o maior valor dentro de um array de números. Esse exemplo mostra como 
 
 Usa a função `reduce` para comparar cada valor com o maior até agora, atualizando o máximo quando necessário.
 
-## Achatamento dew um array de arrays (Flat)
+## Achatamento de um array de arrays (Flat)
 
 ### Descrição
 
